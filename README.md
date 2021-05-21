@@ -1,1 +1,5 @@
-# project-based-masters-degree
+![](img/logo.png)
+
+# Project-based master's degree
+
+
